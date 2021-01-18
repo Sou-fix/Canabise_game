@@ -1,2 +1,2 @@
-# Soka_game
-Soka game emu dofus 1.29
+# Canabise_game
+Canabise game emu dofus 1.29
